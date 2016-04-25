@@ -380,9 +380,6 @@ section a:hover,header a:hover {
 	border-bottom: 1px solid #0d2c40;
 }
 
-footer a {
-	color: black;
-}
 
 aside ul li a,header a,section a,footer a {
 	transition: all .2s linear;
